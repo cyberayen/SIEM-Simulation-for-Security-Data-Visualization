@@ -12,10 +12,10 @@ Failed Logins: Identifying potential unauthorized access attempts.
 Firewall Blocks: Observing the effectiveness of the firewall in preventing attacks.
 Microsoft Defender Usage: Monitoring the use and efficiency of Microsoft Defender in defending against threats.
 # Features
-Data Retrieval: The project uses the ThingSpeak API to collect the most recent security data.
-Line Graphs: Visualization of security data over time with various metrics plotted.
-Pie Charts: Distribution of total values for each field, showing the overall status of the system.
-Real-time Simulation: Simulating a SIEM system with real-time data fetching and visualization.
+* Data Retrieval: The project uses the ThingSpeak API to collect the most recent security data.
+* Line Graphs: Visualization of security data over time with various metrics plotted.
+* Pie Charts: Distribution of total values for each field, showing the overall status of the system.
+* Real-time Simulation: Simulating a SIEM system with real-time data fetching and visualization.
 # Tools & Libraries
 Requests: For making HTTP requests to fetch data from ThingSpeak.
 Matplotlib: For plotting line graphs and pie charts to visualize the security data.
