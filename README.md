@@ -17,13 +17,13 @@ Microsoft Defender Usage: Monitoring the use and efficiency of Microsoft Defende
 * Pie Charts: Distribution of total values for each field, showing the overall status of the system.
 * Real-time Simulation: Simulating a SIEM system with real-time data fetching and visualization.
 # Tools & Libraries
-Requests: For making HTTP requests to fetch data from ThingSpeak.
-Matplotlib: For plotting line graphs and pie charts to visualize the security data.
-NumPy: For handling numerical data and generating custom ticks on the graphs.
+* Requests: For making HTTP requests to fetch data from ThingSpeak.
+*Matplotlib: For plotting line graphs and pie charts to visualize the security data.
+* NumPy: For handling numerical data and generating custom ticks on the graphs.
  # Purpose
 This project is intended for:
 
-Security professionals who want to visualize and monitor security events and behaviors over time.
-Students and researchers studying SIEM systems and cybersecurity.
-Developers interested in simulating the analysis and monitoring of security events.
+* Security professionals who want to visualize and monitor security events and behaviors over time.
+* Students and researchers studying SIEM systems and cybersecurity.
+* Developers interested in simulating the analysis and monitoring of security events.
 By simulating a SIEM, this project helps in understanding the role of data visualization in enhancing the effectiveness of security monitoring, which is crucial for detecting threats, managing risks, and improving overall security posture.
